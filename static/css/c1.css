@@ -1,0 +1,15 @@
+h1
+{
+   font-size: 50px;
+   color: rgb(218, 17, 127);
+   background-color: rgb(138, 226, 6);
+}
+body
+{
+    background-color: aqua;
+}
+img
+{
+    width: 800px;
+    height: 400px;
+}
